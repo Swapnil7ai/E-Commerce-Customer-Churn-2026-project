@@ -50,6 +50,8 @@ python -m streamlit run SwapnilSinghaBiswas_ECommerce-Customer-Churn.py
 ```
 The app will open automatically in your default browser at `http://localhost:8501`.
 
+Backend / Architecture: Single-script Streamlit execution (SwapnilSinghaBiswas_ECommerce-Customer-Churn.py). Predictions are calculated natively in-memory via Scikit-Learn without requiring an external REST API endpoint.
+
 ---
 
 ## 📊 Dashboard Pages

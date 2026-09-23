@@ -24,7 +24,7 @@ Customer churn is one of the most critical business metrics in e-commerce. This 
 ```
 E-Commerce-Churn-Project/
 │
-├── SwapnilSinghaBiswas_ECommerce-Customer-Churn.py                              # Main application (pipeline + dashboard)
+├── SwapnilSinghaBiswas_ECommerce-Customer-Churn-Analysis.py                     # Main application (pipeline + dashboard)
 ├── requirements.txt                                                             # Python dependency versions
 ├── README.md                                                                    # This file
 ├── SwapnilSinghaBiswas_ProjectReport.docx                                       # Full project report (Word document)

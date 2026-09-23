@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ### 3. Launch the Dashboard
 ```bash
-python -m streamlit run SwapnilSinghaBiswas_ECommerce-Customer-Churn.py
+python -m streamlit run SwapnilSinghaBiswas_ECommerce-Customer-Churn-Analysis.py
 ```
 The app will open automatically in your default browser at `http://localhost:8501`.
 
